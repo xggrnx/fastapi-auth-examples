@@ -1,0 +1,8 @@
+[tool.darker]
+src = [
+    "app/"
+]
+
+line-length = 120
+target-version = ["py312"]
+log_level = "INFO"
